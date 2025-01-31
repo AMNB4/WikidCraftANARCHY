@@ -3,7 +3,7 @@ window.eaglercraftXOpts = () => ({
   // joinServer: "ws" + window.location.href.slice(4),
   // assetsURI: "custom.epk",
 	servers: [
-		{ addr: "ws" + window.location.href.slice(4), name: "EaglercraftX Server" }
+		{ addr: "wss://ManiaSmp.mooo.com" + window.location.href.slice(4), name: "ManiaSMPLifesteal" }
 	]
 });
 // document.title = "My Original Server Name:tm:";
